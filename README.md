@@ -15,7 +15,11 @@ I have developed skills from learning Javascript fundamentals, completed back en
 
 * Javascript
 * React
-* Axios
+* Express.js
+* React.js
+* SQL
+* Sequelize
+* Test Driven Development: Mocha & Jest
 * CSS
 
 
