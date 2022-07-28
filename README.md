@@ -1,7 +1,7 @@
 ## Nathan Humphreys   :man:
 
-👋My Name is Nathan. I am a beginer in the software engnieer which I recently completed a bootcamp with Manchester Codes May 2022. 
-I have developed skills from learning Javascript fundamentals, completed back end and front end projects.
+👋My Name is Nathan. I am a software engineer beginner, which I recently completed a software bootcamp with Manchester Codes in May 2022. 
+I have developed so many skills from Javascript fundamentals, completing back end and front end projects.
 
 ### About Me
 
