@@ -9,6 +9,7 @@ I have developed so many skills from Javascript fundamentals, completing back en
 * :eyeglasses: I'm currently continuing to learn more from the bootcamp by creating my own projects starting with front end using React. 
 * :muscle: What I want to learn next: To move on more to back end with my projects using Axios.
 * :mailbox: How to reach me: Wxmnath@gmail.com     or     [LinkedIn](https://www.linkedin.com/in/nathan-humphreys/)
+* Currently doing #100daysofcode Challenge - October 2022
 
 
 ### :hammer: Tools I Like To Use ###
